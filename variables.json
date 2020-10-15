@@ -1,0 +1,8 @@
+{
+    "index_base_url": "https://www.sec.gov/Archives/edgar/daily-index/2020/QTR4/",
+    "archives_base_url": "https://www.sec.gov/Archives/",
+    "raw_dir_path": "DATA_DIR/raw/",
+    "processed_dir_path": "DATA_DIR/processed/",
+    "mapping_csv": "cik_mapping.csv",
+    "missing_csv": "DATA_DIR/processed/missing.csv"
+}
